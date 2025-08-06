@@ -57,5 +57,5 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake (Red Themed)
+### 🐍 
 ![GitHub Snake](https://github.com/RedK22/RedK22/blob/output/github-snake-dark.svg)
