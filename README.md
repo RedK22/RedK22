@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritwik Kapoor</h1>
-<h3 align="center">I'm a fullstack developer and a student</h3>
+<h3 align="center">I'm a full stack developer</h3>
 
-- 🌱 I’m currently learning **Next.js and Django**
+-  I’m currently learning **MCP Servers and AI Integrations.**
 
-- 👨‍💻 My portfolio is available [here](https://portfolio-ritwik.netlify.app)
+-  My portfolio is available [here](https://portfolio-ritwik.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
