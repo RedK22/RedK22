@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritwik Kapoor</h1>
-<h3 align="center">I'm a full stack developer</h3>
+<h3 align="center">I'm a Full Stack Developer</h3>
 
 -  I’m currently learning **MCP Servers and AI Integrations.**
 
